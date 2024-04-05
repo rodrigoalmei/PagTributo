@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2020/08/red-hot-chili-peppers-1984-capa.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+#main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center; /* Centraliza todo o conteúdo */
+    background-color: rgba(255, 255, 255, 0.8); /* Cor de fundo com transparência */
+    border-radius: 10px; /* Borda arredondada */
+}
+
+#title {
+    margin-top: 20px; /* Adiciona um espaço entre o topo e o título */
+}
+
+#img-div {
+    margin-top: 20px;
+    text-align: center; /* Centraliza a imagem */
+}
+
+#image {
+    max-width: 100%; /* Atributo max-width com valor 100% */
+    display: block; /* Atributo display com valor block */
+    margin: 0 auto; /* Centraliza horizontalmente */
+    height: auto;
+}
+
+#img-caption {
+    margin-top: 10px;
+    font-style: italic;
+}
+
+#tribute-info {
+    margin-top: 20px;
+    text-align: left; /* Alinha o texto à esquerda */
+}
+
+#tribute-link {
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: blue;
+}
